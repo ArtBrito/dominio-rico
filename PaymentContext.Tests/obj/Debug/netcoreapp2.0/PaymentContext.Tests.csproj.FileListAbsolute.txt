@@ -1,0 +1,17 @@
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp2.0\PaymentContext.Tests.deps.json
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp2.0\PaymentContext.Tests.runtimeconfig.json
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp2.0\PaymentContext.Tests.runtimeconfig.dev.json
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp2.0\PaymentContext.Tests.dll
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp2.0\PaymentContext.Tests.pdb
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp2.0\PaymentContext.Tests.csproj.CoreCompileInputs.cache
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp2.0\PaymentContext.Tests.AssemblyInfoInputs.cache
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp2.0\PaymentContext.Tests.AssemblyInfo.cs
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp2.0\PaymentContext.Tests.dll
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp2.0\PaymentContext.Tests.pdb
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp2.0\PaymentContext.Domain.dll
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp2.0\PaymentContext.Shared.dll
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp2.0\PaymentContext.Shared.pdb
+D:\OneDrive\Development\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp2.0\PaymentContext.Domain.pdb
